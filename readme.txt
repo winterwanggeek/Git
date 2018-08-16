@@ -10,3 +10,4 @@ Creating a new branch is quick again.
 Creating a new branch is quick and simple.
 I'm trying to use 'git merge' by '--no-ff'.
 Add hello.txt
+I have finished already.
